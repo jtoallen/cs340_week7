@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 
 This guide is intended for the students in CS 340 who want to take a path through the class using Node.js and Javascript.
@@ -210,3 +211,6 @@ Believe it or not, these resources will yield you dividends if you spend time fi
 - [HandlebarsJS Language Guide](https://handlebarsjs.com/guide/)
 - [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
 - [Node.js 14 API Documentation](https://nodejs.org/dist/latest-v14.x/docs/api/)
+=======
+# cs340_week7
+>>>>>>> 73053af8ad64769cffea77264d1832c93b1c5a54
